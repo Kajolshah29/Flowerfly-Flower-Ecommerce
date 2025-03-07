@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063006646776",
+    "project_id": "plant-shop-39981",
+    "storage_bucket": "plant-shop-39981.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063006646776:android:944269b1283acf56f7660d",
+        "android_client_info": {
+          "package_name": "com.kajolcodes.plantshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jJ-6sPeJlrshNnFSKI5TuCNQw7KuX4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
